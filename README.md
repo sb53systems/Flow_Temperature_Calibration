@@ -3,7 +3,7 @@ It is a program that allows you to control a 3D printer in real time, and to cal
   
 This project is under development, and will take days. Your contribution and support are welcome. Thank you.  
   
-# About the Developer 
+# About this Repository
 By Salim BELAYEL.  
 This project started in October 2024, developed with Delphi 12 Community Edition.  
 Email : sb53systems@gmail.com  
