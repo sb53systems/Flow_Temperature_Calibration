@@ -1,6 +1,6 @@
 # Ideal Flow Vs Hotend Temperature Calibration
-It is a program that allows you to control a 3D printer in real time, and to calculate the temperature of the extruded filament using a contactless temperature sensor connected to the motherboard of the printer (EX: MLX90614ESF-DCI).  
-Playing with the Flow/Speed and the hotend Temperature, it records the values ​​where the filament is extruded with the ideal temperature requested.  
+It is a program that allows you to control a 3D printer in real time, and calculate the temperature of the extruded filament, using a contactless temperature sensor connected to the motherboard of the printer (EX: MLX90614ESF-DCI).  
+Playing with the Flow/Speed and the hotend temperature, it records the values ​​where the filament is extruded with the requested ideal temperature.  
   
 This project is under development, and will take days. Your contribution and support are welcome. Thank you.  
   
