@@ -7,7 +7,7 @@ This project is under development, and will take days. Your contribution and sup
   
 # About this Repository
 ### By Salim BELAYEL.  
-This project began in June 2024. Compiled with `Delphi 12 Community Edition`.  
+This project began in October 2024. Compiled with `Delphi 12 Community Edition`.  
 Email : sb53systems@gmail.com  
   
 ![SB53-Systems~1](https://github.com/sb53systems/G-Code-Flow-Temperature-Controller/assets/33290411/b94703a1-cf21-4109-bfa6-b9bcff438a1d)  
